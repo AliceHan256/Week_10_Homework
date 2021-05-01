@@ -1,6 +1,6 @@
 # A Yen for the Future
 
-This project will solve two problems in analysing the Yen's historical returns and predicting its movements using time series tools. Investors can obtain better understanding about the risks of various currencies and make their business decisions.
+This project will solve two problems in analysing the Yen's historical returns and predicting its movements using time series tools, time series forecasting and linear regression modeling. Investors can obtain better understanding about the risks of various currencies and make their business decisions.
 
 # Technologies
 
